@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "871504577376",
+    "firebase_url": "https://loginfirebase-39e46.firebaseio.com",
+    "project_id": "loginfirebase-39e46",
+    "storage_bucket": "loginfirebase-39e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871504577376:android:b867459c240812c7",
+        "android_client_info": {
+          "package_name": "dev.linhnv.toeicmasters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZTp08fYAPmTGcACha6KzPbkak2Onwzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871504577376:android:964f2b29ee0728a9",
+        "android_client_info": {
+          "package_name": "dev.linhnv.getposition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZTp08fYAPmTGcACha6KzPbkak2Onwzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
